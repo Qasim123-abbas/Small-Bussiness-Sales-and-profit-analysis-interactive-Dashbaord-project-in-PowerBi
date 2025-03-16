@@ -3,7 +3,7 @@
 🚀 I am Excited to share my latest #PowerBI project! 🎉
 I recently built a Sales & Profit Analysis Dashboard that provides key insights into small business sales performance, profit trends, and business KPIs. This dashboard includes:
 
-📊 Sales & Profit Dashboard – Analysing revenue, profit, and top-performing categories
+📊 **Sales & Profit Dashboard** – Analysing revenue, profit, and top-performing categories
 I recently designed this Sales & Profit Analysis Dashboard to help small businesses track their sales performance, profit trends, and top customer insights. This dashboard includes:
 
 📊 Total Sales & Profit Overview – Quick snapshot of revenue and profitability.
@@ -12,7 +12,7 @@ I recently designed this Sales & Profit Analysis Dashboard to help small busines
 
 📈 Profit Trends & Customer Insights – Identify top customers contributing to revenue.
 
-.📈 KPI Analysis Dashboard – Tracking key performance indicators like client satisfaction, sales by region, and call performance.
+.📈 **KPI Analysis Dashboard** – Tracking key performance indicators like client satisfaction, sales by region, and call performance.
 
 I recently built this Business KPI Analysis Dashboard to help businesses track key performance metrics and improve decision-making. This dashboard provides:
 
@@ -24,7 +24,7 @@ I recently built this Business KPI Analysis Dashboard to help businesses track k
 
 ⏳ Hourly Performance Trends – Understanding rating patterns over time.
 
-📅 MTD/YTD/SPLY Dashboard – Comparing sales and profit across months, quarters, and years.
+📅 **MTD/YTD/SPLY Dashboard** – Comparing sales and profit across months, quarters, and years.
 
 I have built this MTD/YTD/SPLY Analysis Dashboard to track sales trends over time and provide valuable business insights. This dashboard helps businesses understand:
 
